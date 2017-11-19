@@ -2,7 +2,7 @@
 #Especiales agradecimientos a Javier Sajuria y Alvaro Fuenzalida
 
 
-setwd("C:/Users/Gonzalo/Desktop/R-json")
+setwd("~/Developer/RWorkspace/chile-elections-2017")
 
 source("database_diputados.R")
 diputados=database_diputados()

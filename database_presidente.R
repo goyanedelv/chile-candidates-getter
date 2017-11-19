@@ -2,7 +2,7 @@ database_presidente <- function(){
 
 library(jsonlite)
 library(dplyr)
-setwd("C:/Users/Gonzalo/Desktop/R-json")
+setwd("~/Developer/RWorkspace/chile-elections-2017")
 
 P01 <- "http://servelelecciones.cl/data/elecciones_presidente/computo/global/19001.json"
 
@@ -10,7 +10,7 @@ presidencial=fromJSON(P01)
 
 stat_presidencial = data.frame(Candidato=presidencial$data$a,Votos=strtoi(presidencial$data$c))
 
-stat_presidencial$Votos=lala #por mientras
+stat_presidencial$Votos=c(1,1,1,1,1,1,1,1)
 total=sum(stat_presidencial$Votos)
 
 stat_presidencial$percentage[1] = stat_presidencial$Votos[1]/total

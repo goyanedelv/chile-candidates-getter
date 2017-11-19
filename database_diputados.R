@@ -3,7 +3,7 @@ database_diputados <- function(){
 
 library(jsonlite)
 library(dplyr)
-setwd("C:/Users/Gonzalo/Desktop/R-json")
+setwd("~/Developer/RWorkspace/chile-elections-2017")
 #jsonedit(listdata = data$data$sd[5], mode = "tree")
 #Distritos
 D01 <- "http://servelelecciones.cl/data/elecciones_diputados/computo/distritos/6001.json"

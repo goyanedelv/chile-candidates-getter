@@ -1,6 +1,6 @@
 json_writer <- function(data_all, distrito){
 
-setwd("C:/Users/Gonzalo/Desktop/R-json")
+setwd("~/Developer/RWorkspace/chile-elections-2017")
 
 library(rjson)
 
