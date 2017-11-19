@@ -1,0 +1,347 @@
+Número de comuna,Comuna,Región,Distrito,Circunscripción
+1,Arica,Arica y Parinacota,1,1
+2,Camarones,Arica y Parinacota,1,1
+3,General Lagos,Arica y Parinacota,1,1
+4,Putre,Arica y Parinacota,1,1
+5,Alto Hospicio,Tarapacá,2,2
+6,Camiña,Tarapacá,2,2
+7,Colchane,Tarapacá,2,2
+8,Huara,Tarapacá,2,2
+9,Iquique,Tarapacá,2,2
+10,Pica,Tarapacá,2,2
+11,Pozo Almonte,Tarapacá,2,2
+12,Calama,Antofagasta,3,3
+13,María Elena,Antofagasta,3,3
+14,Ollagüe,Antofagasta,3,3
+15,San Pedro de Atacama,Antofagasta,3,3
+16,Tocopilla,Antofagasta,3,3
+17,Antofagasta,Antofagasta,3,3
+18,Mejillones,Antofagasta,3,3
+19,Sierra Gorda,Antofagasta,3,3
+20,Taltal,Antofagasta,3,3
+21,Chañaral,Atacama,4,4
+22,Copiapó,Atacama,4,4
+23,Diego de Almagro,Atacama,4,4
+24,Alto del Carmen,Atacama,4,4
+25,Caldera,Atacama,4,4
+26,Huasco,Atacama,4,4
+27,Freirina,Atacama,4,4
+28,Tierra Amarilla,Atacama,4,4
+29,Vallenar,Atacama,4,4
+30,Andacollo,Coquimbo,5,5
+31,La Higuera,Coquimbo,5,5
+32,La Serena,Coquimbo,5,5
+33,Paihuano,Coquimbo,5,5
+34,Vicuña,Coquimbo,5,5
+35,Coquimbo,Coquimbo,5,5
+36,Ovalle,Coquimbo,5,5
+37,Río Hurtado,Coquimbo,5,5
+38,Canela,Coquimbo,5,5
+39,Combarbalá,Coquimbo,5,5
+40,Illapel,Coquimbo,5,5
+41,Los Vilos,Coquimbo,5,5
+42,Monte Patria,Coquimbo,5,5
+43,Punitaqui,Coquimbo,5,5
+44,Salamanca,Coquimbo,5,5
+45,Cabildo,Valparaíso,6,6
+46,La Calera,Valparaíso,6,6
+47,Hijuelas,Valparaíso,6,6
+48,La Cruz,Valparaíso,6,6
+49,La Ligua,Valparaíso,6,6
+50,Nogales,Valparaíso,6,6
+51,Papudo,Valparaíso,6,6
+52,Petorca,Valparaíso,6,6
+53,Puchuncaví,Valparaíso,6,6
+54,Quillota,Valparaíso,6,6
+55,Quintero,Valparaíso,6,6
+56,Zapallar,Valparaíso,6,6
+57,Calle Larga,Valparaíso,6,6
+58,Catemu,Valparaíso,6,6
+59,Llaillay,Valparaíso,6,6
+60,Los Andes,Valparaíso,6,6
+61,Panquehue,Valparaíso,6,6
+62,Putaendo,Valparaíso,6,6
+63,Rinconada,Valparaíso,6,6
+64,San Esteban,Valparaíso,6,6
+65,San Felipe,Valparaíso,6,6
+66,Santa María,Valparaíso,6,6
+67,Limache,Valparaíso,6,6
+68,Olmué,Valparaíso,6,6
+69,Quilpué,Valparaíso,6,6
+70,Villa Alemana,Valparaíso,6,6
+71,Isla de Pascua,Valparaíso,7,6
+72,Juan Fernández,Valparaíso,7,6
+73,Valparaíso,Valparaíso,7,6
+74,Concón,Valparaíso,7,6
+75,Viña del Mar,Valparaíso,7,6
+76,Algarrobo,Valparaíso,7,6
+77,Cartagena,Valparaíso,7,6
+78,Casablanca,Valparaíso,7,6
+79,El Quisco,Valparaíso,7,6
+80,El Tabo,Valparaíso,7,6
+81,San Antonio,Valparaíso,7,6
+82,Santo Domingo,Valparaíso,7,6
+83,Colina,Metropolitana,8,7
+84,Lampa,Metropolitana,8,7
+85,Quilicura,Metropolitana,8,7
+86,Pudahuel,Metropolitana,8,7
+87,Tiltil,Metropolitana,8,7
+88,Cerrillos,Metropolitana,8,7
+89,Estación Central,Metropolitana,8,7
+90,Maipú,Metropolitana,8,7
+91,Conchalí,Metropolitana,9,7
+92,Huechuraba,Metropolitana,9,7
+93,Renca,Metropolitana,9,7
+94,Cerro Navia,Metropolitana,9,7
+95,Lo Prado,Metropolitana,9,7
+96,Quinta Normal,Metropolitana,9,7
+97,Independencia,Metropolitana,9,7
+98,Recoleta,Metropolitana,9,7
+99,Santiago,Metropolitana,10,7
+100,Ñuñoa,Metropolitana,10,7
+101,Providencia,Metropolitana,10,7
+102,La Granja,Metropolitana,10,7
+103,Macul,Metropolitana,10,7
+104,San Joaquín,Metropolitana,10,7
+105,Las Condes,Metropolitana,11,7
+106,Lo Barnechea,Metropolitana,11,7
+107,Vitacura,Metropolitana,11,7
+108,La Reina,Metropolitana,11,7
+109,Peñalolén,Metropolitana,11,7
+110,La Florida,Metropolitana,12,7
+111,Puente Alto,Metropolitana,12,7
+112,La Pintana,Metropolitana,12,7
+113,Pirque,Metropolitana,12,7
+114,San José de Maipo,Metropolitana,12,7
+115,El Bosque,Metropolitana,13,7
+116,La Cisterna,Metropolitana,13,7
+117,San Ramón,Metropolitana,13,7
+118,Lo Espejo,Metropolitana,13,7
+119,Pedro Aguirre Cerda,Metropolitana,13,7
+120,San Miguel,Metropolitana,13,7
+121,Buin,Metropolitana,14,7
+122,Calera de Tango,Metropolitana,14,7
+123,Paine,Metropolitana,14,7
+124,San Bernardo,Metropolitana,14,7
+125,Alhué,Metropolitana,14,7
+126,Curacaví,Metropolitana,14,7
+127,El Monte,Metropolitana,14,7
+128,Isla de Maipo,Metropolitana,14,7
+129,María Pinto,Metropolitana,14,7
+130,Melipilla,Metropolitana,14,7
+131,Padre Hurtado,Metropolitana,14,7
+132,Peñaflor,Metropolitana,14,7
+133,San Pedro,Metropolitana,14,7
+134,Talagante,Metropolitana,14,7
+135,Rancagua,O-Higgins,15,8
+136,Codegua,O-Higgins,15,8
+137,Coínco,O-Higgins,15,8
+138,Coltauco,O-Higgins,15,8
+139,Doñihue,O-Higgins,15,8
+140,Graneros,O-Higgins,15,8
+141,Machalí,O-Higgins,15,8
+142,Malloa,O-Higgins,15,8
+143,Mostazal,O-Higgins,15,8
+144,Olivar,O-Higgins,15,8
+145,Quinta de Tilcoco,O-Higgins,15,8
+146,Rengo,O-Higgins,15,8
+147,Requínoa,O-Higgins,15,8
+148,Chimbarongo,O-Higgins,16,8
+149,Las Cabras,O-Higgins,16,8
+150,Peumo,O-Higgins,16,8
+151,Pichidegua,O-Higgins,16,8
+152,San Fernando,O-Higgins,16,8
+153,San Vicente,O-Higgins,16,8
+154,Chépica,O-Higgins,16,8
+155,La Estrella,O-Higgins,16,8
+156,Litueche,O-Higgins,16,8
+157,Lolol,O-Higgins,16,8
+158,Marchihue,O-Higgins,16,8
+159,Nancagua,O-Higgins,16,8
+160,Navidad,O-Higgins,16,8
+161,Palmilla,O-Higgins,16,8
+162,Paredones,O-Higgins,16,8
+163,Peralillo,O-Higgins,16,8
+164,Pichilemu,O-Higgins,16,8
+165,Placilla,O-Higgins,16,8
+166,Pumanque,O-Higgins,16,8
+167,Santa Cruz,O-Higgins,16,8
+168,Curicó,Maule,17,9
+169,Hualañé,Maule,17,9
+170,Licantén,Maule,17,9
+171,Molina,Maule,17,9
+172,Rauco,Maule,17,9
+173,Romeral,Maule,17,9
+174,Sagrada Familia,Maule,17,9
+175,Teno,Maule,17,9
+176,Vichuquén,Maule,17,9
+177,Talca,Maule,17,9
+178,Constitución,Maule,17,9
+179,Curepto,Maule,17,9
+180,Empedrado,Maule,17,9
+181,Maule,Maule,17,9
+182,Pelarco,Maule,17,9
+183,Pencahue,Maule,17,9
+184,Río Claro,Maule,17,9
+185,San Clemente,Maule,17,9
+186,San Rafael,Maule,17,9
+187,Colbún,Maule,18,9
+188,Linares,Maule,18,9
+189,San Javier,Maule,18,9
+190,Villa Alegre,Maule,18,9
+191,Yerbas Buenas,Maule,18,9
+192,Cauquenes,Maule,18,9
+193,Chanco,Maule,18,9
+194,Longaví,Maule,18,9
+195,Parral,Maule,18,9
+196,Pelluhue,Maule,18,9
+197,Retiro,Maule,18,9
+198,Bulnes,Biobío,19,10
+199,Cabrero,Biobío,19,10
+200,Cobquecura,Biobío,19,10
+201,Coelemu,Biobío,19,10
+202,Ñiquén,Biobío,19,10
+203,Portezuelo,Biobío,19,10
+204,Quillón,Biobío,19,10
+205,Quirihue,Biobío,19,10
+206,Ninhue,Biobío,19,10
+207,Ránquil,Biobío,19,10
+208,San Carlos,Biobío,19,10
+209,San Fabián,Biobío,19,10
+210,San Nicolás,Biobío,19,10
+211,Treguaco,Biobío,19,10
+212,Yumbel,Biobío,19,10
+213,Chillán,Biobío,19,10
+214,Chillán Viejo,Biobío,19,10
+215,Coihueco,Biobío,19,10
+216,El Carmen,Biobío,19,10
+217,Pemuco,Biobío,19,10
+218,Pinto,Biobío,19,10
+219,San Ignacio,Biobío,19,10
+220,Yungay,Biobío,19,10
+221,Hualpén,Biobío,20,10
+222,Talcahuano,Biobío,20,10
+223,Chiguayante,Biobío,20,10
+224,Concepción,Biobío,20,10
+225,San Pedro de la Paz,Biobío,20,10
+226,Coronel,Biobío,20,10
+227,Florida,Biobío,20,10
+228,Hualqui,Biobío,20,10
+229,Penco,Biobío,20,10
+230,Santa Juana,Biobío,20,10
+231,Tomé,Biobío,20,10
+232,Arauco,Biobío,21,10
+233,Cañete,Biobío,21,10
+234,Contulmo,Biobío,21,10
+235,Curanilahue,Biobío,21,10
+236,Los Álamos,Biobío,21,10
+237,Lebu,Biobío,21,10
+238,Lota,Biobío,21,10
+239,Tirúa,Biobío,21,10
+240,Alto Biobío,Biobío,21,10
+241,Antuco,Biobío,21,10
+242,Laja,Biobío,21,10
+243,Los Ángeles,Biobío,21,10
+244,Mulchén,Biobío,21,10
+245,Nacimiento,Biobío,21,10
+246,Negrete,Biobío,21,10
+247,Quilaco,Biobío,21,10
+248,Quilleco,Biobío,21,10
+249,San Rosendo,Biobío,21,10
+250,Santa Bárbara,Biobío,21,10
+251,Tucapel,Biobío,21,10
+252,Angol,Araucanía,22,11
+253,Collipulli,Araucanía,22,11
+254,Ercilla,Araucanía,22,11
+255,Los Sauces,Araucanía,22,11
+256,Lumaco,Araucanía,22,11
+257,Purén,Araucanía,22,11
+258,Renaico,Araucanía,22,11
+259,Traiguén,Araucanía,22,11
+260,Curacautín,Araucanía,22,11
+261,Galvarino,Araucanía,22,11
+262,Lautaro,Araucanía,22,11
+263,Lonquimay,Araucanía,22,11
+264,Melipeuco,Araucanía,22,11
+265,Perquenco,Araucanía,22,11
+266,Victoria,Araucanía,22,11
+267,Vilcún,Araucanía,22,11
+268,Padre Las Casas,Araucanía,23,11
+269,Temuco,Araucanía,23,11
+270,Carahue,Araucanía,23,11
+271,Cholchol,Araucanía,23,11
+272,Freire,Araucanía,23,11
+273,Nueva Imperial,Araucanía,23,11
+274,Pitrufquén,Araucanía,23,11
+275,Saavedra,Araucanía,23,11
+276,Teodoro Schmidt,Araucanía,23,11
+277,Cunco,Araucanía,23,11
+278,Curarrehue,Araucanía,23,11
+279,Gorbea,Araucanía,23,11
+280,Loncoche,Araucanía,23,11
+281,Pucón,Araucanía,23,11
+282,Toltén,Araucanía,23,11
+283,Villarrica,Araucanía,23,11
+284,Corral,Los Ríos,24,12
+285,Lanco,Los Ríos,24,12
+286,Máfil,Los Ríos,24,12
+287,Mariquina,Los Ríos,24,12
+288,Valdivia,Los Ríos,24,12
+289,Futrono,Los Ríos,24,12
+290,La Unión,Los Ríos,24,12
+291,Lago Ranco,Los Ríos,24,12
+292,Los Lagos,Los Ríos,24,12
+293,Paillaco,Los Ríos,24,12
+294,Panguipulli,Los Ríos,24,12
+295,Río Bueno,Los Ríos,24,12
+296,Osorno,Los Lagos,25,13
+297,San Juan de la Costa,Los Lagos,25,13
+298,San Pablo,Los Lagos,25,13
+299,Fresia,Los Lagos,25,13
+300,Frutillar,Los Lagos,25,13
+301,Llanquihue,Los Lagos,25,13
+302,Los Muermos,Los Lagos,25,13
+303,Puerto Octay,Los Lagos,25,13
+304,Puerto Varas,Los Lagos,25,13
+305,Puyehue,Los Lagos,25,13
+306,Purranque,Los Lagos,25,13
+307,Río Negro,Los Lagos,25,13
+308,Calbuco,Los Lagos,26,13
+309,Cochamó,Los Lagos,26,13
+310,Maullín,Los Lagos,26,13
+311,Puerto Montt,Los Lagos,26,13
+312,Ancud,Los Lagos,26,13
+313,Castro,Los Lagos,26,13
+314,Chaitén,Los Lagos,26,13
+315,Chonchi,Los Lagos,26,13
+316,Curaco de Vélez,Los Lagos,26,13
+317,Dalcahue,Los Lagos,26,13
+318,Futaleufú,Los Lagos,26,13
+319,Hualaihué,Los Lagos,26,13
+320,Palena,Los Lagos,26,13
+321,Puqueldón,Los Lagos,26,13
+322,Queilén,Los Lagos,26,13
+323,Quellón,Los Lagos,26,13
+324,Quemchi,Los Lagos,26,13
+325,Quinchao,Los Lagos,26,13
+326,Aysén,Aysén,27,14
+327,Cisnes,Aysén,27,14
+328,Chile Chico,Aysén,27,14
+329,Coyhaique,Aysén,27,14
+330,Cochrane,Aysén,27,14
+331,Guaitecas,Aysén,27,14
+332,Lago Verde,Aysén,27,14
+333,Río Ibáñez,Aysén,27,14
+334,O'Higgins,Aysén,27,14
+335,Tortel,Aysén,27,14
+336,Antártica,Magallanes,28,15
+337,Cabo de Hornos,Magallanes,28,15
+338,Laguna Blanca,Magallanes,28,15
+339,Natales,Magallanes,28,15
+340,Porvenir,Magallanes,28,15
+341,Primavera,Magallanes,28,15
+342,Punta Arenas,Magallanes,28,15
+343,Río Verde,Magallanes,28,15
+344,San Gregorio,Magallanes,28,15
+345,Timaukel,Magallanes,28,15
+346,Torres del Paine,Magallanes,28,15
