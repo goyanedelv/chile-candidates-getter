@@ -2,7 +2,6 @@
 #Especiales agradecimientos a Javier Sajuria y Alvaro Fuenzalida
 library(ggplot2)
 library(scales)
-setwd("C:/Users/Gonzalo/Desktop/R-json")
 
 source("database_diputados.R")
 diputados=database_diputados()
